@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Carmen Montero (She/Her)</h1>
-<h3 align="center">A motivated Full-Stack developer</h3>
+<h3 align="center">A motivated Full-Stack Engineer</h3>
 
 - 🌱 I’m currently learning **Machine Learning, and Basic AI principles**
 
