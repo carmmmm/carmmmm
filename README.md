@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, and Basic AI principles**
 
-- 💬 Ask me about **my background in Biotech, or masters in Neuroscience!
+- 💬 Ask me about my background in Biotech, or masters in Neuroscience!
 
 - 📫 How to reach me **monterocarmeng@gmail.com**
 
