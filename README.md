@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Carmen Montero (She/Her)</h1>
 <h3 align="center">A motivated Software Engineer</h3>
 
-- 🌱 I’m currently learning **Machine Learning, and Basic AI principles**
-
 - 💬 Ask me about my background in Biotech, or masters in Neuroscience!
 
 - 📫 How to reach me **monterocarmeng@gmail.com**
